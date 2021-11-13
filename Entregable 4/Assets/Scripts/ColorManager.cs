@@ -29,6 +29,8 @@ public class NewBehaviourScript : MonoBehaviour
         RandomScale = new float Scale(0, 0, 0);
         GetComponent<MeshRenderer>().scale = RandomScale;
 
+        RandomPosition =
+
     }
 
 }
